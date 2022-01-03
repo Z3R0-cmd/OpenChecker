@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4db25c4b-ddf6-4c3f-9214-06c8a2ebb589" name="Default Changelist" comment="" />
+    <list default="true" id="4db25c4b-ddf6-4c3f-9214-06c8a2ebb589" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OpenChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,9 +44,29 @@
     </option>
   </component>
   <component name="ProjectId" id="234WpgoxvJZ9A0cPMgpPBWeI4Ir" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunManager">
+    <configuration name="OpenChecker" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.zero.openchecker.OpenChecker" />
+      <module name="OpenChecker" />
+      <option name="PROGRAM_PARAMETERS" value="impact.jar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4db25c4b-ddf6-4c3f-9214-06c8a2ebb589" name="Default Changelist" comment="" />
@@ -30,5 +76,63 @@
       <updated>1640994025331</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="79" key="#Project_Structure" timestamp="1641229504060">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="79" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1641229504060" />
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640993865674">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1640993865674" />
+    <state x="645" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1641231088660">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1641231088660" />
+    <state x="569" y="295" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1640993857351">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="569" y="295" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1640993857351" />
+    <state x="560" y="153" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1640994282364">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="560" y="153" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1640994282364" />
+    <state x="910" y="307" key="FileChooserDialogImpl" timestamp="1641011428039">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="910" y="307" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1641011428039" />
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom" timestamp="1641231778923">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1641231778923" />
+    <state width="1637" height="275" key="GridCell.Tab.0.center" timestamp="1641231778923">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1641231778923" />
+    <state width="1637" height="275" key="GridCell.Tab.0.left" timestamp="1641231778923">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1641231778923" />
+    <state width="1637" height="275" key="GridCell.Tab.0.right" timestamp="1641231778923">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1641231778923" />
+    <state x="710" y="127" key="new project wizard" timestamp="1641011441890">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="710" y="127" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1641011441890" />
   </component>
 </project>
